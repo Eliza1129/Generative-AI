@@ -1,0 +1,3 @@
+# config.py
+COHERE_API_KEY = "VnuBqlzix5QAwpVr8FWLlx0cJgyKxQSPH3DREdhV"
+WEAVIATE_API_KEY = "oIZqsvAHC1jLL3wMbYJYbjK2gi2iCcWq7V3p"
